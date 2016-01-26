@@ -1,0 +1,3 @@
+Moved adventurer, feast, baron, minion, and ambassador into their own functions.  
+Removed those confusing arrows and hard to read square brackets to make code cleaner and easier to use.
+Generically cleaned up the code a bit.
